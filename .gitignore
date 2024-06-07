@@ -1,0 +1,37 @@
+# Dependencias
+/vendor/
+
+# Archivos de configuración del entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos generados
+dist/
+build/
+public/
+tmp/
+logs/
+*.log
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Archivos de control de versiones y editor
+.vscode/
+.idea/
+*.swp
+
+# Archivos temporales
+*.tmp
+*.bak
+*.backup
+
+# Archivos binarios y de construcción
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.jar
